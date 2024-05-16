@@ -13,6 +13,7 @@
   },
   {
     "isLive": false,
+    "status": ["Building"],
     "name": "Aerv",
     "url": "https://aerv.finance",
     "tags": ["DeFi"],
@@ -327,30 +328,6 @@
   {
     "isLive": false,
     "status": ["Building"],
-    "name": "Pantheon of Olympus",
-    "url": "https://side.xyz/the-olympians",
-    "tags": ["NFT"],
-    "description": "Witness the captivating pixelized realm of mythical deities and embark on a GameFi adventure.",
-    "github": "",
-    "twitter": "https://twitter.com/pantheonsnft",
-    "discord": "",
-    "image": "pantheonolympus"
-  },
-  {
-    "isLive": false,
-    "status": ["Building"],
-    "name": "Pepa Network",
-    "url": "https://pepalabs.net/",
-    "tags": ["DeFi", "Gaming", "Social"],
-    "description": "A blockchain-based gaming platform that combines traditional arcade games with the benefits of DeFi, NFTs, and social features.",
-    "github": "",
-    "twitter": "https://twitter.com/PEPAlabs",
-    "discord": "",
-    "image": "pepamarket"
-  },
-  {
-    "isLive": false,
-    "status": ["Building"],
     "name": "PlayEstates",
     "url": "https://playestates.com/",
     "tags": ["Real World Assets", "Gaming", "NFT"],
@@ -521,5 +498,17 @@
     "twitter": "https://twitter.com/ThunderbyFuel",
     "discord": "https://discord.gg/thundernftmarket",
     "image": "thunder"
+  },
+  {
+    "isLive": false,
+    "status": ["Building"],
+    "name": "Zap",
+    "url": "https://zapinfra.com",
+    "tags": ["Infrastructure"],
+    "description": "Zap is the gateway to better UX, cheaper transactions, and faster execution on Fuel",
+    "github": "https://github.com/Layer3Labs/Zap-Protocol",
+    "twitter": "https://twitter.com/zap_infra",
+    "discord": "",
+    "image": "zap"
   }
 ]
